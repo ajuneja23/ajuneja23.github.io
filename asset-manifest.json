@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1efa6e62.css",
-    "main.js": "/static/js/main.f8ab3b2e.js",
+    "main.js": "/static/js/main.961d0f5f.js",
     "static/media/upennlogo.png": "/static/media/upennlogo.fdab3ce29ae9024012f4.png",
     "static/media/resume (2).pdf": "/static/media/resume (2).b0a0bb0399e849226e7d.pdf",
     "static/media/haylon_w_trans.png": "/static/media/haylon_w_trans.77160d40e4e87e7835e9.png",
     "static/media/northwestern-thumbnail.png": "/static/media/northwestern-thumbnail.80bbaaad46c1fe4dbb56.png",
     "index.html": "/index.html",
     "main.1efa6e62.css.map": "/static/css/main.1efa6e62.css.map",
-    "main.f8ab3b2e.js.map": "/static/js/main.f8ab3b2e.js.map"
+    "main.961d0f5f.js.map": "/static/js/main.961d0f5f.js.map"
   },
   "entrypoints": [
     "static/css/main.1efa6e62.css",
-    "static/js/main.f8ab3b2e.js"
+    "static/js/main.961d0f5f.js"
   ]
 }
