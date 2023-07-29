@@ -1,0 +1,140 @@
+/** @format */
+
+.exptitle {
+  padding-top: 20%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 2em;
+}
+
+span:after,
+span:before {
+  content: "\00a0\00a0\00a0\00a0\00a0";
+  text-decoration: line-through;
+}
+
+.shortdescribe {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: auto;
+  width: 75%;
+  font-size: 145%;
+}
+
+.highlight1 {
+  background-color: #defffb;
+}
+
+.highlight2 {
+  background-color: #dee2ff;
+}
+
+.pennlogo {
+  width: 20%;
+  margin: 0 auto;
+}
+.college {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: flex;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.collegetext {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.email {
+  text-decoration: none;
+  color: black;
+  background-color: #defffb;
+}
+
+.email:hover {
+  background-color: #dee2ff;
+}
+
+.haylonlogo {
+  margin: 0 auto;
+}
+
+.experienceHaylon {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: flex;
+  margin-bottom: 10%;
+}
+
+.haylontext {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.northwesternlogo {
+  margin: 0 auto;
+}
+
+.northwesterntext {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.experienceNU {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  display: flex;
+  margin-bottom: 3%;
+}
+
+.footer {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 2%;
+  margin-bottom: -2%;
+}
+
+.social {
+  text-decoration: none;
+  color: black;
+  font-weight: 350;
+}
+
+.social:hover {
+  background-color: #defffb;
+}
+
+.signoff {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 300;
+}
+.rotateleft {
+  transition: transform 0.7s ease-in-out;
+  display: inline-block;
+}
+.rotateleft:hover {
+  transform: rotate(45deg);
+}
+
+.rotateright {
+  transition: transform 0.7s ease-in-out;
+  display: inline-block;
+}
+
+.rotateright:hover {
+  transform: rotate(-45deg);
+}
