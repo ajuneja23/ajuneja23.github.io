@@ -1,0 +1,11 @@
+/** @format */
+
+.Experience {
+}
+
+.experiences {
+  margin-top: 15%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5%;
+}

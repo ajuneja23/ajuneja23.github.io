@@ -1,52 +1,70 @@
 /** @format */
 
-.backgroundelement {
+.backelement {
   background-color: #fffbde;
   opacity: 0.8;
   background-image: radial-gradient(#b4b4b4 0.5px, transparent 0.5px),
     radial-gradient(#b4b4b4 0.5px, #fffbde 0.5px);
-  background-size: 20px 20px;
+  background-size: 20px 10px;
   background-position: 0 0, 10px 10px;
-  width: 100%;
-  height: 120%;
+  width: 110%;
+  height: 100%;
   margin-left: -1%;
   margin-top: -10%;
   margin-right: -2%;
   position: absolute;
   z-index: -5;
 }
-
-.intro {
-  text-align: center;
-  font-style: italic;
-  font-weight: lighter;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 3.5em;
-  padding-top: 5%;
-  z-index: 11;
-  position: relative;
-}
-
-.name {
+.named {
   text-align: center;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 5em;
+  font-size: 10em;
   position: relative;
-  color: #ffdee2;
-  z-index: 10;
+  color: #304689;
+  margin-top: 15%;
 }
 
-.resumebutton {
+.aaditpic {
   position: relative;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  z-index: 13;
+  height: 125px;
+  display: inline;
+  border-radius: 50%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.barlink {
+  color: #ffdee2;
+  display: inline;
+  font-style: normal;
+  font-size: 1.5em;
+  margin-left: 3%;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.barlink > a {
+  color: #ffdee2;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.barlink:hover {
+  cursor: pointer;
+}
+
+.upperbar {
+  background-color: #304689;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  justify-content: center;
+  height: 150px;
+  width: 100%;
   margin: auto;
-  text-align: center;
-  width: 25%;
-  border: 2px solid black;
-}
-
-.resumebutton:hover {
-  color: #ffdee2;
-  border: 2px solid #ffdee2;
+  z-index: 14;
+  box-shadow: -6px 0 10px 5px rgba(0, 0, 0, 0.5);
 }
