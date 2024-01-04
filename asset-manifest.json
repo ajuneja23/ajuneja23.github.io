@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6806f419.css",
-    "main.js": "/static/js/main.1adc3617.js",
+    "main.css": "/static/css/main.8feb2574.css",
+    "main.js": "/static/js/main.22c2a443.js",
     "static/media/Northwestern_University_seal.svg-removebg-preview.png": "/static/media/Northwestern_University_seal.svg-removebg-preview.d777505722b8f893e7be.png",
     "static/media/upennlogo.png": "/static/media/upennlogo.fdab3ce29ae9024012f4.png",
     "static/media/resume (5).pdf": "/static/media/resume (5).e9d22e68c09123bcf21c.pdf",
@@ -17,11 +17,11 @@
     "static/media/email-removebg-preview.png": "/static/media/email-removebg-preview.0a04d091dea7f6483acc.png",
     "static/media/northwestern-thumbnail.png": "/static/media/northwestern-thumbnail.80bbaaad46c1fe4dbb56.png",
     "index.html": "/index.html",
-    "main.6806f419.css.map": "/static/css/main.6806f419.css.map",
-    "main.1adc3617.js.map": "/static/js/main.1adc3617.js.map"
+    "main.8feb2574.css.map": "/static/css/main.8feb2574.css.map",
+    "main.22c2a443.js.map": "/static/js/main.22c2a443.js.map"
   },
   "entrypoints": [
-    "static/css/main.6806f419.css",
-    "static/js/main.1adc3617.js"
+    "static/css/main.8feb2574.css",
+    "static/js/main.22c2a443.js"
   ]
 }
