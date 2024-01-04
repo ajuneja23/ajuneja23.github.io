@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6806f419.css",
+    "main.js": "/static/js/main.1adc3617.js",
+    "static/media/Northwestern_University_seal.svg-removebg-preview.png": "/static/media/Northwestern_University_seal.svg-removebg-preview.d777505722b8f893e7be.png",
+    "static/media/upennlogo.png": "/static/media/upennlogo.fdab3ce29ae9024012f4.png",
+    "static/media/resume (5).pdf": "/static/media/resume (5).e9d22e68c09123bcf21c.pdf",
+    "static/media/social-share-grasp-removebg-preview.png": "/static/media/social-share-grasp-removebg-preview.bd42b9780cf5a4716489.png",
+    "static/media/Spotify_App_Logo.svg-removebg-preview.png": "/static/media/Spotify_App_Logo.svg-removebg-preview.eacf34d67b08dfbe47fb.png",
+    "static/media/pkrnai4q4rldqqiyjr6p-removebg-preview.png": "/static/media/pkrnai4q4rldqqiyjr6p-removebg-preview.ad182b0be3cc7e521f9d.png",
+    "static/media/1624896912828-removebg-preview.png": "/static/media/1624896912828-removebg-preview.01700f4a9e5c10c4d404.png",
+    "static/media/linkedinlogo.jp-removebg-preview.png": "/static/media/linkedinlogo.jp-removebg-preview.6c5efa1cfc2448f2aa4b.png",
+    "static/media/haylon_w_trans.png": "/static/media/haylon_w_trans.77160d40e4e87e7835e9.png",
+    "static/media/aadit - Copy.jpg": "/static/media/aadit - Copy.a6ba34a0d46cb4563c60.jpg",
+    "static/media/download-removebg-preview.png": "/static/media/download-removebg-preview.0aace627ca558454acec.png",
+    "static/media/images-removebg-preview.png": "/static/media/images-removebg-preview.926bae9050d85ea18c9d.png",
+    "static/media/email-removebg-preview.png": "/static/media/email-removebg-preview.0a04d091dea7f6483acc.png",
+    "static/media/northwestern-thumbnail.png": "/static/media/northwestern-thumbnail.80bbaaad46c1fe4dbb56.png",
+    "index.html": "/index.html",
+    "main.6806f419.css.map": "/static/css/main.6806f419.css.map",
+    "main.1adc3617.js.map": "/static/js/main.1adc3617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6806f419.css",
+    "static/js/main.1adc3617.js"
+  ]
+}
