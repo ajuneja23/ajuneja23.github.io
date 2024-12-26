@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is a simple blog I made for fun (mainly to display photos from my camera) using Jekyll.
-
-You can make an identically looking Jekyll site using my theme: [https://github.com/andrewhwanpark/brutalist-blog](https://github.com/andrewhwanpark/brutalist-blog)
+Hi, my name is Aadit. I study computer science and finance at the University of Pennsylvania in the M&T program.
 
 ### Contact me
 
-[hwanp@andrew.cmu.edu](mailto:hwanp@andrew.cmu.edu)
+[aadit@aaditjuneja.com](mailto:aadit@aaditjuneja.com)
+
+224-443-2889
