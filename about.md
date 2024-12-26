@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Hi, my name is Aadit. I study computer science and finance at the University of Pennsylvania in the M&T program.
