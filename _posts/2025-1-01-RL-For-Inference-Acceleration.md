@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models
+title: RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models (ICLR 2025 Workshop Paper)
 use_math: true
 ---
 
