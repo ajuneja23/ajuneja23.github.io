@@ -8,6 +8,6 @@ Hi, my name is Aadit. I study computer science and finance at the University of 
 
 ### Contact me
 
-[aadit@aaditjuneja.com](mailto:aadit@aaditjuneja.com)
+[aaditj@wharton.upenn.edu](mailto:aaditj@wharton.upenn.edu)
 
 224-443-2889

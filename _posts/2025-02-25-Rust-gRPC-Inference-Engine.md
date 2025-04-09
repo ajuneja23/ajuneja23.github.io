@@ -37,4 +37,4 @@ I wanted to make the output a little colorful just for show. Here's some guideli
 3. Each light blue portion represents the final SmolLM output for a given prompt.
 4. Each purple portion represents an update on the number of jobs either queued/in progress for a certain node after a job is completed.
 
-Hope you found this interesting! Check out the [github](https://github.com/ajuneja23/SmolLMRustInferenceEngine/) or [email me](mailto:aadit@aaditjuneja.com) if you want to talk about this project or suggest some changes!
+Hope you found this interesting! Check out the [github](https://github.com/ajuneja23/SmolLMRustInferenceEngine/) or [email me](mailto:aaditj@wharton.upenn.edu) if you want to talk about this project or suggest some changes!

@@ -39,4 +39,4 @@ The core advantage of this technique is the customizability at test-time. For ex
 
 ## Feedback and Contributions
 
-I would really appreciate any feedback on this library and would love to discuss it with anybody interested. If you have any suggestions or ideas, please feel free to contribute to the project on [GitHub](https://github.com/ajuneja23/constrainedFrequencyDecodingWatermark) or [email me](mailto:aadit@aaditjuneja.com).
+I would really appreciate any feedback on this library and would love to discuss it with anybody interested. If you have any suggestions or ideas, please feel free to contribute to the project on [GitHub](https://github.com/ajuneja23/constrainedFrequencyDecodingWatermark) or [email me](mailto:aaditj@wharton.upenn.edu).
