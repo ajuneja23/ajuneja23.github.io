@@ -1,17 +1,33 @@
 ---
-layout: default
+layout: page
+title: Hello
 ---
 
-<div class="archive">
-  {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
-  if currDate != date %}
-  <h1 class="archive-year">{{ currDate }}</h1>
-  {% assign date = currDate %} {% endif %}
-  <div class="archive-item">
-    <span class="post-date archive-date fs-4"
-      >{{ post.date | date: "%B %d, %Y" }}</span
-    >
-    <a href="{{ post.url }}" class="archive-title fs-4">{{ post.title }}</a>
-  </div>
-  {% endfor %}
-</div>
+<p>
+  My name is Aadit. I currently live in Palo Alto and work at xAI, and
+  previously attended the University of Pennsylvania.
+</p>
+
+<p>
+  Please contact me at:
+  <a href="mailto:aadit.juneja12@gmail.com">aadit.juneja12@gmail.com</a>
+  or
+  <a href="tel:+12244432889">224-443-2889</a>.
+</p>
+
+<p>Here is a bag of ice from my fridge:</p>
+
+<img
+  src="{{ site.baseurl }}/assets/images/ice.jpeg"
+  alt="Bag of ice from fridge"
+  style="max-width: 100%; height: auto"
+/>
+
+<!-- Optional: more semantic/accessible version with figure -->
+<!-- 
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/ice.jpeg"
+       alt="Bag of ice from fridge">
+  <figcaption>Bag of ice straight from the freezer</figcaption>
+</figure>
+-->

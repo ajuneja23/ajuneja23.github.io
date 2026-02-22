@@ -36,4 +36,4 @@ So, now we can use our GPT 2 model to predict 1 token in advance and this new mo
 
 ## Conclusion
 
-Given the compute constraints of this project, I'd love to run this on Llama 8B to see if more exciting performance benefits can be realized. Check out the [github](https://github.com/ajuneja23/inferenceAccelerationMultipleDecodingHeads/) or [email me](mailto:aaditj@wharton.upenn.edu) if you want to talk about this project or suggest some changes!
+Given the compute constraints of this project, I'd love to run this on Llama 8B to see if more exciting performance benefits can be realized. Check out the [github](https://github.com/ajuneja23/inferenceAccelerationMultipleDecodingHeads/) or [email me](mailto:aadit.juneja12@gmail.com) if you want to talk about this project or suggest some changes!

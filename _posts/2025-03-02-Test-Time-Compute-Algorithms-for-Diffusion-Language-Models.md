@@ -34,4 +34,4 @@ We can do this demasking in a best of N fashion by adding some Gumbel noise to o
 
 ## Conclusion
 
-Me and my teammates hope to write a paper on this, so I will update this page when that is fully fleshed out. In the meantime, check out the [github](https://github.com/nikitamounier/reason_diffuser/) or [email me](mailto:aaditj@wharton.upenn.edu) if you want to talk about this project or suggest some changes!
+Me and my teammates hope to write a paper on this, so I will update this page when that is fully fleshed out. In the meantime, check out the [github](https://github.com/nikitamounier/reason_diffuser/) or [email me](mailto:aadit.juneja12@gmail.com) if you want to talk about this project or suggest some changes!

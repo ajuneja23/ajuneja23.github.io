@@ -1,13 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Hi, my name is Aadit. I study computer science and finance at the University of Pennsylvania in the M&T program.
-
-### Contact me
-
-[aaditj@wharton.upenn.edu](mailto:aaditj@wharton.upenn.edu)
-
-224-443-2889
+Hi, my name is Aadit. I currently work at xAI. I previously studied at the University of Pennsylvania.

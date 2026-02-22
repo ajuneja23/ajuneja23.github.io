@@ -36,12 +36,10 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: aaditj@wharton.upenn.edu
+  email: aadit.juneja12@gmail.com
   facebook:
   github: ajuneja23
-  instagram: cristiano
   linkedin: aadit-juneja
-  rss: j
   twitter: AaditJuneja
 
 sass:
