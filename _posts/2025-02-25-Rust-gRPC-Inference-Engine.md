@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Distributed Inference Engine for SmolLM with Rust and gRPC
+title: A Distributed Inference Engine for SmolLM in Rust
 use_math: true
 ---
 
