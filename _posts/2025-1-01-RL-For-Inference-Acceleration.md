@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RL for Training Multiple Decoding Heads -- An Inference Acceleration Method in Language Models (ICLR 2025 Workshop on Sparsity in LLMs)
+title: Training Multiple Decoding Heads -- A Medusa Inspired Alternative Objective to Next Token Prediction (ICLR 2025 Workshop on Sparsity in LLMs)
 use_math: true
 ---
 
@@ -22,7 +22,7 @@ To formalize this method, for a given trajectory, if we have $$j$$ tokens of con
 
 Next steps to make this production-grade would be using a more powerful model and running this for some more epochs. Note that in the above graph the first epoch was eschewed as it had an average loss of around 50 in order to visually show the learning progress of other epochs better.
 
-2. **Train new decoding model**: Given a robust reward model, we want to use it to tune an instance of the base gpt 2 model so it can accurately predict 2 tokens in advance. We do this with PPO, where we want to maximize the reward function minus a KL term($$r-\beta KL(m_1,m_2)$$), with the KL term representing the distance from our tuned gpt 2 instance and the original base instance to ensure that any characteristics exploited to maximize the expected reward don't take away from it's nature as a language model that should have reasonable outputs. For each step, treating our GPT 2 instance as a policy we want it to choose actions (i.e. token selections) that have maximal probability of appearing 2 tokens in advance when simulating from the base GPT. With this interpretation, we train our decoding head to take in the context of the first $$n$$ tokens in some prompt and sample the projected token that will occur as the $$n+2$$-th token with a reasonable degree of accuracy. We train this PPO objective with gradient descent.
+1. **Train new decoding model**: Given a robust reward model, we want to use it to tune an instance of the base gpt 2 model so it can accurately predict 2 tokens in advance. We do this with PPO, where we want to maximize the reward function minus a KL term($$r-\beta KL(m_1,m_2)$$), with the KL term representing the distance from our tuned gpt 2 instance and the original base instance to ensure that any characteristics exploited to maximize the expected reward don't take away from it's nature as a language model that should have reasonable outputs. For each step, treating our GPT 2 instance as a policy we want it to choose actions (i.e. token selections) that have maximal probability of appearing 2 tokens in advance when simulating from the base GPT. With this interpretation, we train our decoding head to take in the context of the first $$n$$ tokens in some prompt and sample the projected token that will occur as the $$n+2$$-th token with a reasonable degree of accuracy. We train this PPO objective with gradient descent.
 
 By following these steps, we aim to create a robust RL-based decoding model that can predict multiple tokens in advance, enhancing inference speed and efficiency. Here is a how this reward (total reward including KL term) learned over time:
 
